@@ -1,0 +1,19 @@
+h1{
+    color: palevioletred;
+    background-color:antiquewhite;
+}
+body{
+    background-color: aquamarine;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 40px;
+}
+.grid img{
+    width: 20%;
+}
+.description{
+    font-family: 'Dancing Script', cursive;
+}
